@@ -1,0 +1,15 @@
+<script src="{{ asset('clients/js/jquery-3.2.1.min.js') }}"></script>
+<script src="{{ asset('clients/js/popper.js') }}"></script>
+<script src="{{ asset('clients/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('clients/js/stellar.js') }}"></script>
+<script src="{{ asset('clients/vendors/lightbox/simpleLightbox.min.js') }}"></script>
+<script src="{{ asset('clients/vendors/nice-select/js/jquery.nice-select.min.js') }}"></script>
+<script src="{{ asset('clients/vendors/isotope/imagesloaded.pkgd.min.js') }}"></script>
+<script src="{{ asset('clients/vendors/isotope/isotope-min.js') }}"></script>
+<script src="{{ asset('clients/vendors/owl-carousel/owl.carousel.min.js') }}"></script>
+<script src="{{ asset('clients/js/jquery.ajaxchimp.min.js') }}"></script>
+<script src="{{ asset('clients/vendors/counter-up/jquery.waypoints.min.js') }}"></script>
+<script src="{{ asset('clients/vendors/counter-up/jquery.counterup.js') }}"></script>
+<script src="{{ asset('clients/js/mail-script.js') }}"></script>
+<script src="{{ asset('clients/js/theme.js') }}"></script>
+<script src="https://unpkg.com/sweetalert2@7.18.0/dist/sweetalert2.all.js"></script>
